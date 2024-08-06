@@ -18,6 +18,7 @@ gem 'uglifier', '>= 1.3.0'
 
 # Gem Devise
 gem 'devise', '~> 4.9', '>= 4.9.4'
+gem 'pundit', '~> 2.3', '>= 2.3.2'
 
 # Use CoffeeScript for .coffee assets and views
 gem 'coffee-rails', '~> 4.2'
